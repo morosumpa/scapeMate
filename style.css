@@ -1,0 +1,22 @@
+
+body {
+    background-color: #222;
+    color: #fff;
+    background-image: url("/scaperoom.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h2, p {
+    color: #ffc107;
+}
+
+form {
+    margin-top: 20px;
+}
+
+button {
+    background-color: #dc3545;
+    border: none;
+}
